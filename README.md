@@ -12,5 +12,5 @@
 <a href="https://linkedin.com/in/ajith (prakash) k" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ajith (prakash) k" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/ajithkrkd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ajithkrkd" height="30" width="40" /></a>
 </p>
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=DenverCoder1"/></a>
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=ajithkrkd"/></a>
 

@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ajith k</h1>
 <h3 align="center">A passionate Java full stack developer from India</h3>
 
-- 🌱 I’m currently learning **Spring boot , REST API , REACT**
+- 🌱 I’m currently learning **Docker , kubernetes and Microservices using spring boot**
 
 - 💬 Ask me about **Java , Spring boot ,Spring MVC, REST api**
 

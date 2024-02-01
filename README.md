@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Ajith k</h1>
 <h3 align="center">A passionate Java full stack developer from India</h3>
 
-- 🌱 I’m currently learning **Docker , kubernetes and Microservices using spring boot**
+- 🌱 I’m currently learning **Microservices using spring boot , Kafka ,rabit mq**
 
-- 💬 Ask me about **Java , Spring boot ,Spring MVC, REST api**
+- 💬 Ask me about **Java , Spring boot ,Spring MVC, REST api,Docker,kubernetes **
 
 - 📫 How to reach me **ajithprakash.work@gmail.com**
 
